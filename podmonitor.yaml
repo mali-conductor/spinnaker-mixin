@@ -19,4 +19,4 @@ spec:
     metricRelabelings:
     - regex: hostname
       action: labeldrop
-  sampleLimit: 20000
+  sampleLimit: 20000 ##
